@@ -1,6 +1,5 @@
-It must run inside the src
 
-Use command to run game
+Use the command to run game but it must run inside the src
 ```
 java Window
 ```
